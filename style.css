@@ -58,7 +58,7 @@ img{
 
 .container{
     width: 70%;
-    height: 500px;
+    height: 650px;
     background: white;
     margin: auto;
     border-radius: 5px;
@@ -130,4 +130,14 @@ img{
 #mobile{
     background-color: #f29e33;
     border-color: #f29e33;
+}
+
+#website{
+    background-color: #d863a1;
+    border-color: #d863a1;
+}
+
+#sales{
+    background-color: #b0c926;
+    border-color: #b0c926;
 }
