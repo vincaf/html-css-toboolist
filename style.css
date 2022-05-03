@@ -32,7 +32,7 @@ img{
     width: 70%;
     height: 60px;
     background: white;
-    margin: 40px auto;
+    margin: 40px auto 5px;
     border-radius: 5px;
     padding: 20px 60px;
 }
@@ -56,3 +56,49 @@ img{
     border: 1px solid rgb(200, 200, 200);
 }
 
+.container{
+    width: 70%;
+    height: 500px;
+    background: white;
+    margin: auto;
+    border-radius: 5px;
+    padding: 40px 60px;
+}
+
+.downarrow{
+    font-size: 35px;
+    vertical-align: text-top;
+    color: #464a53;
+}
+
+.title{
+    font-size: 20px;
+    font-weight: bold;
+    vertical-align: text-top;
+    color: #464a53;
+}
+
+.checkmark{
+    color: #79c9b6;
+    border: 2px solid #79c9b6;
+    padding: 3px 5px;
+    border-radius: 100%;
+    margin-left: 6px;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.tasks{
+    font-weight: bold;
+    color: #464a53;
+}
+
+.editorial{
+    font-size: 10px;
+    width: 70px;
+    height: 25px;
+    color: white;
+    background: #47adf1;
+    border-radius: 11px;
+    border: 1px solid #47adf1;
+}
