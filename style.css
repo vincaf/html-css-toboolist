@@ -10,17 +10,20 @@ body{
 }
 
 .logo{
-    height: 80px;
+    height: 70px;
     background-color: white;
 }
 
 img{
-    margin: 10px 25px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 5px;
+    vertical-align: middle;
 }
 
 #logotext{
-    font-size: 30px;
+    font-size: 40px;
     font-weight: bold;
-    line-height: 80px;
+    height: 80px;
     vertical-align: middle;
 }
