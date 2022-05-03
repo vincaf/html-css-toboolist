@@ -88,12 +88,26 @@ img{
     font-size: 10px;
 }
 
+.crossmark{
+    color: #ff0000;
+    border: 2px solid #ff0000;
+    padding: 3px 2px;
+    border-radius: 100%;
+    margin-left: 6px;
+    font-weight: bold;
+    font-size: 10px;
+}
+
 .tasks{
     font-weight: bold;
     color: #464a53;
 }
 
-.editorial{
+.subtitle{
+    padding-bottom: 30px;
+}
+
+.etichetta{
     font-size: 10px;
     width: 70px;
     height: 25px;
@@ -101,4 +115,19 @@ img{
     background: #47adf1;
     border-radius: 11px;
     border: 1px solid #47adf1;
+}
+
+#q1{
+    background-color: #9c72e4;
+    border-color: #9c72e4;
+}
+
+#recruiting{
+    background-color: #64c0a9;
+    border-color: #64c0a9;
+}
+
+#mobile{
+    background-color: #f29e33;
+    border-color: #f29e33;
 }
